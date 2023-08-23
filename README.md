@@ -42,7 +42,7 @@ This repository contains solutions for various JavaScript and PHP programming ta
 
 ## 📂 Repository Structure
 
-The repository is organized into directories based on the topics mentioned above. Each directory contains its respective code and a `README.md` file providing further information.
+The repository is organized into directories based on the topics mentioned above. Each directory contains its respective code and a `README.md` file providing  further information.
 
 ## 📖 Usage
 
